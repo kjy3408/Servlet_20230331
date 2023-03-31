@@ -1,6 +1,22 @@
 # Compiled class file
 *.class
 
+# [IDE] Eclipse, STS4, Intellij
+.settings
+.apt_generated
+.springBeans
+.sts4-cache
+bin
+target
+
+.classpath
+.factorypath
+.project
+
+.idea
+
+
+
 # Log file
 *.log
 
